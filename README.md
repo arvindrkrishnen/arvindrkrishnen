@@ -1,8 +1,8 @@
-Arvind Radhakrishnen
-arvindrkrishnen@gmail.com
+**Arvind Radhakrishnen
+**arvindrkrishnen@gmail.com
 Systems Thinker. Relentless Builder. Gets Things Done | Applied AI | Enable Business Outcome
 
-rusted advisor to CIOs, Chief Architects, and enterprise transformation leaders across Fortune 50 organizations — operating at the intersection of strategy, architecture, AI innovation, and execution.
+Trusted advisor to CIOs, Chief Architects, and enterprise transformation leaders across Fortune 50 organizations — operating at the intersection of strategy, architecture, AI innovation, and execution.
 
 I combine blue-sky thinking with pragmatic execution to move AI from concept to production at scale. I’ve identified 50+ enterprise AI Agent opportunities and launched production-grade AI/GenAI agents across Enterprise Architecture, Technology Strategy, Product Management, and end-to-end Software Development — accelerating software delivery and decision intelligence.
 
